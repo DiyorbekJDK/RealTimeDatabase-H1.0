@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1052366103809",
+    "project_id": "databaseapps-44323",
+    "storage_bucket": "databaseapps-44323.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1052366103809:android:f2e90a2ba2b757f9e5a700",
+        "android_client_info": {
+          "package_name": "org.diyorbek.realtimedatabase_h10"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1052366103809-4hlor8n5jkfqt2jp1ik843rc5tqlj6u0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJK-UA_nVYZqobKquQ_AjPslpTgesw-04"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1052366103809-4hlor8n5jkfqt2jp1ik843rc5tqlj6u0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
